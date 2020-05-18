@@ -7,4 +7,4 @@ Deployment is straight forward and the documentation for dash and plotly graphin
 I will list down some of the things I enjoyed while working with this project:
   * You can beautify your dashboard using simple css and html codes. 
 
-[Simple Qatar National Bank Dashboard](QNBdash.gif)
+![Qatar National Bank Simple Dashboard](QNBdash.gif)
