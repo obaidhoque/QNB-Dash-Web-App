@@ -293,6 +293,6 @@ app.layout = html.Div(
 # todo 3. Put it in github and host the dash on github pages
 
 if __name__ == '__main__':
-    app.run_server(host= "127.0.0.1")
+    app.run_server(debug=True)
 
 
