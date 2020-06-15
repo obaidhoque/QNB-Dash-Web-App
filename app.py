@@ -125,7 +125,7 @@ import dash_html_components as html
 
 
 app = dash.Dash(__name__) # to start your dash application
-
+server = app.server # the Flask app
 ########################################################## APP LAYOUT ####################################################
 
 app.layout = html.Div(
