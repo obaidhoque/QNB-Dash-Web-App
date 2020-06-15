@@ -3,7 +3,6 @@
 ########################################### Qatar Stock Market Dashboard ###############################################
 ########################################################################################################################
 ########################################################################################################################
-
 import plotly.express as px
 import plotly.graph_objects as go
 import pandas as pd
@@ -125,7 +124,7 @@ import dash_html_components as html
 
 
 app = dash.Dash(__name__) # to start your dash application
-server = app.server # the Flask app
+server = app.server
 ########################################################## APP LAYOUT ####################################################
 
 app.layout = html.Div(
